@@ -1,6 +1,6 @@
 //
 //  AppDelegate.m
-//  PNTextView
+//  PNTextViewDemo
 //
 //  Created by 刘攀妞 on 2019/4/8.
 //  Copyright © 2019年 刘攀妞. All rights reserved.

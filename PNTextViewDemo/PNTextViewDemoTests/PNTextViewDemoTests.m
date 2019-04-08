@@ -1,6 +1,6 @@
 //
-//  PNTextViewTests.m
-//  PNTextViewTests
+//  PNTextViewDemoTests.m
+//  PNTextViewDemoTests
 //
 //  Created by 刘攀妞 on 2019/4/8.
 //  Copyright © 2019年 刘攀妞. All rights reserved.
@@ -8,11 +8,11 @@
 
 #import <XCTest/XCTest.h>
 
-@interface PNTextViewTests : XCTestCase
+@interface PNTextViewDemoTests : XCTestCase
 
 @end
 
-@implementation PNTextViewTests
+@implementation PNTextViewDemoTests
 
 - (void)setUp {
     // Put setup code here. This method is called before the invocation of each test method in the class.
